@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5); /* 背景色を透過させます */
+}
+
+#clock {
+    font-family: 'Arial', sans-serif;
+    color: white;
+    font-size: 60px;
+    letter-spacing: 7px;
+}
